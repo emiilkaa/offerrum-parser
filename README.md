@@ -21,4 +21,4 @@ https://my.offerrum.com/offers/21002
 https://my.offerrum.com/offers/21166
 ```
 
-Then you can run the parser. It will ask your email and password to enter the OFFERRUM website, and also the article's filename (where to save the result).
+Then you can run the parser (the `main.py` file). It will ask your email and password to enter the OFFERRUM website, and also the article's filename (where to save the result).
